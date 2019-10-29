@@ -1,0 +1,26 @@
+{
+  "name": "face-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "face-api.min.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meff34/Face-Detection-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meff34/Face-Detection-JavaScript/issues"
+  },
+  "homepage": "https://github.com/meff34/Face-Detection-JavaScript#readme"
+}
